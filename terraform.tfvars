@@ -1,3 +1,3 @@
 region       = "nyc1"
-do_token     = "dop_v1_f4321d35e06910e97d47ae014c5d706bb3c9d29a2e5cb5c81cec0cbf6bf9b132"
-ssh_key_name = "curso devops"
+do_token     = "dop_v1_717f339895ee29c2a01c8339940feaef5d4275ba227e88317f52e58c92575303"
+ssh_key_name = "jornada-ssh"
